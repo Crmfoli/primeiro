@@ -1,0 +1,7 @@
+*.pyc
+.venv
+.env
+_pycache_/
+*.db
+local_setting.py
+staticfiles
